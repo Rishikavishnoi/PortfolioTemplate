@@ -6,6 +6,5 @@ It's a simple portfolio design template which contains sticky navbar , header , 
 
 ![screenshot](screenshotss.png)
 
-## Contribute under SSOC
 
-# PortfolioTemplate
+
