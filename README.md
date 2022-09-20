@@ -6,7 +6,8 @@ It's a simple portfolio design template which contains sticky navbar , header , 
 - Clean Code 
 - Beginner friendly
 
-## [Demo](https://rishikavishnoi.github.io/PortfolioTemplate/)
+
+## [Demo](https://rishikavishnoi.github.io/PortfolioTemplate/) ⭐
 
 
 ![screenshot](screenshotss.png)
