@@ -5,6 +5,7 @@ It's a simple portfolio design template which contains sticky navbar , header , 
 - It is a responsive site 
 - Clean Code 
 - Beginner friendly
+- Easy to use
 
 
 ## [Demo](https://rishikavishnoi.github.io/PortfolioTemplate/) ⭐
